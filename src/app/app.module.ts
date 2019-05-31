@@ -12,6 +12,8 @@ import { AppComponent } from '@app/app.component';
 import { CoreModule, customNotifierOptions } from '@app/core';
 import { SharedModule } from '@app/shared';
 import { NotifierModule } from 'angular-notifier';
+import { AgmCoreModule } from '@agm/core'; // @agm/core
+import { AgmDirectionModule } from 'agm-direction'; // agm-direction
 
 @NgModule({
   declarations: [AppComponent],
