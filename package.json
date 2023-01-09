@@ -71,7 +71,7 @@
     "jquery": "^3.5.0",
     "leaflet": "^1.5.1",
     "leaflet-routing-machine": "^3.2.12",
-    "luxon": "^1.15.0",
+    "luxon": "^2.5.2",
     "rxjs": "^6.5.2",
     "rxjs-compat": "^6.5.2",
     "zone.js": "^0.8.29"
